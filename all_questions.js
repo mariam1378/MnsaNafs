@@ -2266,7 +2266,7 @@ const thirdMathQuestions = {
         "74 + س > 26", 
         "26 + س > 74",
         "26 -س < 74", 
-        "26 + 74 < س"
+        "26 + 74 < سjjjjjjjjjjjjjjjjjjjjjjjjjjjjj"
       ],
       "correct": 1,
       "explanation": "26 + س > 74 الاجابة الصحيحة : "
